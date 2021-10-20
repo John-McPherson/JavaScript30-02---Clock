@@ -50,3 +50,8 @@ html {
       transform-origin: center right;
       background: red;
   }
+  .min-hand{
+    /* transform: rotate(30deg); */
+    transform-origin: center right;
+    background: blue;
+}
