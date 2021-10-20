@@ -44,3 +44,9 @@ html {
     position: absolute;
     top: 50%;
   }
+
+  .hour-hand{
+      /* transform: rotate(30deg); */
+      transform-origin: center right;
+      background: red;
+  }
